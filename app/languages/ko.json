@@ -1,0 +1,14 @@
+{
+  "Name": "MediaKit",
+  "Login": {
+    "emailLb": "이메일",
+    "passwordLb": "비밀번호",
+    "forgotBtn": "비밀번호를 잊으 셨나요?",
+    "loginBtn": "로그인",
+    "dontHaveAccountLb": "계정이 없습니까?",
+    "signUpBtn": "가입하기",
+    "error": "뭔가 잘못되었습니다",
+    "cradentialError": "이메일 또는 비밀번호가 잘못되었습니다",
+    "eng": "영어로 번역하다"
+  }
+}

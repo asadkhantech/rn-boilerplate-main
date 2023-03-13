@@ -1,0 +1,52 @@
+{
+  "Name": "MediaKit",
+  "Login": {
+    "emailLb": "Email",
+    "passwordLb": "Password",
+    "forgotBtn": "FORGOT PASSWORD?",
+    "loginBtn": "LOG IN",
+    "dontHaveAccountLb": "DON'T HAVE AN ACCOUNT?",
+    "signUpBtn": "SIGN UP",
+    "error": "some thing went wrong",
+    "cradentialError": "Email or Password Incorrect",
+    "korean": "Translate into Korean"
+  },
+  "Signup": {
+    "nameLb": "FULL NAME",
+    "emailLb": "EMAIL",
+    "passwordLb": "PASSWORD",
+    "confirmPswdLb": "CONFIRM PASSWORD",
+    "signupBtn": "SIGN UP",
+    "cradentialError": "Email or Password Incorrect"
+  },
+  "forgotScreen": {
+    "emailLb": "EMAIL",
+    "resetBtn": "REQUEST RESET PASSWORD"
+  },
+  "ChangePasswordScreen": {
+    "varificationLb": "VERIFICATION CODE",
+    "usernameLb": "Username",
+    "passwordLb": "NEW PASSWORD",
+    "confirmPswdLb": "CONFIRM PASSWORD",
+    "resetBtn": "RESET PASSWORD",
+    "error": "some thing went wrong"
+  },
+  "HomeScreen": {
+    "welcomeLb": "Welcome",
+    "startBtn": "START",
+    "bandIdLb": "SMART BAND ID",
+    "scaleIdLb": "SMART SCALE ID",
+    "error": "some thing went wrong",
+    "logoutBtn": "LOGOUT"
+  },
+  "ValidationSchema": {
+    "passwordErr": "No password provided.",
+    "emailErr": "Enter a valid email address",
+    "shortPswdErr": "Password is too short - should be 8 chars minimum.",
+    "matchPswdErr": "Passwords must match",
+    "bandIdErr": "Enter a valid Smart Band ID",
+    "bandScaleErr": "Enter a valid Smart Scale ID",
+    "codeErr": "Code is required",
+    "nameErr": "Name is required"
+  }
+}
